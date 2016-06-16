@@ -1,5 +1,8 @@
-label,styles,bgcolor
-燃やす,img/moyasanai02.svg,#733b96
-資源,img/shigen02.svg,#77ae1f
-燃やすごみ,img/moyasu02.svg,#ea3b13
-あきびん,img/bin02.svg,#2dc7aa
+label,description,styles,bgcolor
+燃やす,,img/moyasanai02.svg,#733b96
+不燃,,img/shigen02.svg,#77ae1f
+プラ,,img/moyasu02.svg,#ea3b13
+ビン缶,,img/bin02.svg,#2dc7aa
+ペット,,,#ffffff
+古紙,,,#ffffff
+有害,,,#ffffff
