@@ -1,8 +1,8 @@
 label,description,styles,bgcolor
-燃やす,,img/moyasanai02.svg,#733b96
-不燃,,img/shigen02.svg,#77ae1f
-プラ,,img/moyasu02.svg,#ea3b13
-ビン缶,,img/bin02.svg,#2dc7aa
-ペット,,img/bin02.svg,#afeeee
-古紙,,img/bin02.svg,#f5f5f5
-有害,,img/bin02.svg,#ee82ee
+燃やすごみ,,img/moyasanai02.svg,#733b96
+不燃ごみ,,img/shigen02.svg,#77ae1f
+プラスチック製容器包装,,img/moyasu02.svg,#ea3b13
+びん・缶,,img/bin02.svg,#2dc7aa
+ペットボトル,,img/bin02.svg,#afeeee
+古紙類,,img/bin02.svg,#f5f5f5
+有害ごみ,,img/bin02.svg,#ee82ee
