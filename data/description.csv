@@ -1,8 +1,8 @@
-label,description,styles,bgcolor
-燃やすごみ,,img/moyasanai02.svg,#733b96
-不燃ごみ,,img/shigen02.svg,#77ae1f
-プラスチック製容器包装,,img/moyasu02.svg,#ea3b13
-びん・缶,,img/bin02.svg,#2dc7aa
-ペットボトル,,img/bin02.svg,#afeeee
-古紙類,,img/bin02.svg,#f5f5f5
-有害ごみ,,img/bin02.svg,#ee82ee
+label,sublabel,description,styles,bgcolor
+可燃ごみ,生ごみ・ティッシュ・新聞など,,img/moyasanai02.svg,#ea3b13
+プラ製・容器包装,カップ麺の容器、豆腐のパック、卵のパック、弁当容器,,img/shigen02.svg,#77ae1f
+ペットボトル,飲料用ペットボトル,,img/moyasu02.svg,#733b96
+びん類,ジュースのびん、栄養ドリンクのびん等,,img/bin02.svg,#2dc7aa
+缶類,飲料用缶、食料用缶、スプレー缶等,,img/bin02.svg,#f5a9f2
+不燃ごみ,茶碗、皿、花瓶などの陶器製品,,img/bin02.svg,#2df7aa
+紙製・容器包装,紙箱・紙缶類、カップ麺の紙容器、内側が銀色の紙製容器等,,img/bin02.svg,#6dc7aa
